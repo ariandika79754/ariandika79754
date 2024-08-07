@@ -5,7 +5,9 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariandika79754&label=Profile%20views&color=0e75b6&style=flat" alt="ariandika79754" /> </p>
 
-- 🔭 I’m currently working on **P**
+- 🔭 i'm currently working on software engineer
+- 🌱 i'm currently learning Rust and Blockchain
+- 💬 Ask me about life
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
