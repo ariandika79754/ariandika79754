@@ -46,12 +46,7 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariandika79754&show_icons=true&locale=en&layout=compact" alt="ariandika79754" />
-</p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariandika79754&show_icons=true&locale=en" alt="ariandika79754" />
 </p>
 
 <p>
