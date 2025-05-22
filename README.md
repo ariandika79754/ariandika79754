@@ -68,7 +68,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=ariandika79754&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=ariandika79754&show_icons=true&theme=radical&count_private=true
+  <img src="https://github-readme-stats.vercel.app/api?username=ariandika79754&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=ariandika79754&show_icons=true&theme=radical&count_private=true
 )" alt="GitHub Stats" />
 
 
