@@ -70,9 +70,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ariandika79754&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 
-
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariandika79754&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Badge commits custom 1000 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/commits-1000-brightgreen?style=for-the-badge" alt="1000 commits" />
 </p>
 
 ---
