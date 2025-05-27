@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ari Andika</h1>
-<h3 align="center">A passionate frontend developer from Lampung Selatan, Lampung</h3>
+<h3 align="center">A passionate frontend & backend developer from Lampung Selatan, Lampung</h3>
 
 <!-- Gambar animasi di sebelah kanan -->
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
