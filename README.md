@@ -26,6 +26,13 @@
 
 ---
 
+<h3 align="center">📌 Want to know more about me?</h3>
+<p align="center">
+  🚀 <a href="https://ariandikaleva.netlify.app/" target="_blank"><strong>Click here for my detailed portfolio</strong></a>  
+</p>
+
+---
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -69,8 +76,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ariandika79754&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-
-
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariandika79754&layout=compact&theme=radical" alt="Top Languages" />
 </p>
