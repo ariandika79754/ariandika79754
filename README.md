@@ -116,8 +116,8 @@ interests:
 
 <p align="center">
   <a href="https://github.com/ariandika79754">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariandika79754&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=fbbf24&text_color=e2e8f0"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariandika79754&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=e2e8f0"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ariandika79754&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=fbbf24&text_color=e2e8f0"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ariandika79754&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=e2e8f0"/>
   </a>
 </p>
 
