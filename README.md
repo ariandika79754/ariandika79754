@@ -122,7 +122,7 @@ interests:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariandika79754&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=fbbf24&fire=fbbf24&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ariandika79754&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=fbbf24&fire=fbbf24&currStreakLabel=a78bfa" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -138,7 +138,7 @@ interests:
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ariandika79754&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=ariandika79754&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
